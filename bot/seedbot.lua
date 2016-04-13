@@ -4,8 +4,7 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '2'
-
+VERSION = kos nanat
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
   if not started then
@@ -235,17 +234,17 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
+sina
+negative (@negative_offivial)
+masih(@cewer)
+hyn (@iamrapfarsi)
 Seyedan (@Seyedan25)
 
 Special thanks to:
 alfro
 cewer
 ub_redteam
-Vamptacus
+
 
 ]],
     help_text_realm = [[
